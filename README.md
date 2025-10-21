@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Alysa</h1>
-<h3 align="center">I use tech people made to make tech for people</h3>
+<h1 align="left">Hi 👋, I'm Alysa</h1>
+<h3 align="left">I use tech people made to make tech for people</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llysi&label=Profile%20views&color=0e75b6&style=flat" alt="llysi" /> </p>
 
