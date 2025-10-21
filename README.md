@@ -19,7 +19,7 @@ CS student, AI & ML enthusiast, and code explorer.
 
 I’m building things to make life a little cooler. 🔭  
 
-- 🥞 I’m currently working on: []
+- 🍳 I’m currently working on: []
 - 🍽️ I’m learning: full-stack development + AI
 - 🍡 Fun fact: My fav animes characters are Saiki 🩷, Naruto 🍥, and Mao Mao 🌱!
 - 🍉 Learn more at: []
