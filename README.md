@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🐠 Hi, I'm Alysa!
+# 🫧 🐠 Hi, I'm Alysa!  
 CS student, AI & ML enthusiast, and code explorer.  
 
 I’m building things to make life a little cooler. 🔭  
